@@ -1,0 +1,21 @@
+ugp@UGPs-MacBook-Pro: ~/DSI-CHI-1 (project_02_jay)$ git remote -v
+origin	git@github.com:ga-students/DSI-CHI-1.git (fetch)
+origin	git@github.com:ga-students/DSI-CHI-1.git (push)ugp@UGPs-MacBook-Pro: ~/DSI-CHI-1 (project_02_jay)$ git remote -v
+origin	git@github.com:ga-students/DSI-CHI-1.git (fetch)
+origin	git@github.com:ga-students/DSI-CHI-1.git (push)ugp@UGPs-MacBook-Pro: ~/DSI-CHI-1 (project_02_jay)$ git remote -v
+origin	git@github.com:ga-students/DSI-CHI-1.git (fetch)
+origin	git@github.com:ga-students/DSI-CHI-1.git (push)ugp@UGPs-MacBook-Pro: ~/DSI-CHI-1 (project_02_jay)$ git remote -v
+origin	git@github.com:ga-students/DSI-CHI-1.git (fetch)
+origin	git@github.com:ga-students/DSI-CHI-1.git (push)ugp@UGPs-MacBook-Pro: ~/DSI-CHI-1 (project_02_jay)$ git remote -v
+origin	git@github.com:ga-students/DSI-CHI-1.git (fetch)
+origin	git@github.com:ga-students/DSI-CHI-1.git (push)ugp@UGPs-MacBook-Pro: ~/DSI-CHI-1 (project_02_jay)$ git remote -v
+origin	git@github.com:ga-students/DSI-CHI-1.git (fetch)
+origin	git@github.com:ga-students/DSI-CHI-1.git (push)ugp@UGPs-MacBook-Pro: ~/DSI-CHI-1 (project_02_jay)$ git remote -v
+origin	git@github.com:ga-students/DSI-CHI-1.git (fetch)
+origin	git@github.com:ga-students/DSI-CHI-1.git (push)ugp@UGPs-MacBook-Pro: ~/DSI-CHI-1 (project_02_jay)$ git remote -v
+origin	git@github.com:ga-students/DSI-CHI-1.git (fetch)
+origin	git@github.com:ga-students/DSI-CHI-1.git (push)ugp@UGPs-MacBook-Pro: ~/DSI-CHI-1 (project_02_jay)$ git remote -v
+origin	git@github.com:ga-students/DSI-CHI-1.git (fetch)
+origin	git@github.com:ga-students/DSI-CHI-1.git (push)ugp@UGPs-MacBook-Pro: ~/DSI-CHI-1 (project_02_jay)$ git remote -v
+origin	git@github.com:ga-students/DSI-CHI-1.git (fetch)
+origin	git@github.com:ga-students/DSI-CHI-1.git (push)
